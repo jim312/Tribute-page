@@ -1,0 +1,34 @@
+body{
+  font-family: open sans;
+}
+
+img {
+  max-width: 100%;
+  height:auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5px;
+}
+h1{
+  text-align:center;
+}
+p{
+  text-align:left;
+  color: #4d4d4d;
+}
+main{
+    margin: 30px 8px;
+    padding: 15px;
+    border-radius: 5px;
+    background: #eee;
+}
+
+ul {
+  text-align: center;
+  list-style: inside;
+}
+
+h3{
+  text-align: center;
+}
